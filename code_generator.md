@@ -19,10 +19,9 @@ In order to make things a little bit more organized, please only give me what is
 
 Also you need to take care of those things: 
 
-- all modules must be centered, unless the prompt is asking for a "page". 
+- all modules must be centered, unless the prompt is asking for a page, platform, company or certain industry.
 - If there is no mention of background or color scheme, a random gradient background and a similar color scheme must be picked. 
 - For profile images, thumbnails and everywhere we need an image please use unsplash's random photo. 
 - For icons, just make SVG's up.
 - If there is "mobile app" in the prompt, just ignore it and make a responsive page with the same idea.
 - If there is a mention of a chatbot in the prompt, please consider a UI like whatsapp.
-- If there is a mention of company, platform or a certain industry, please treat it like a full portfolio website and populate it with different sections, pictures and more.
