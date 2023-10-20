@@ -8,13 +8,3 @@ This particular prompt is for the code generation. We actually are going to ask 
 2. Results will be stored in a `jsonl` file.
 
 ## The Prompt
-
-Hello ChatGPT. We need your assistance to create HTML codes with Tailwind stylings from short English expressions we provide. We need you to consider these are __part__ of a bigger HTML code and there is no need to include all HTML tags on the code. Only needed parts. But it is important to keep in mind that we are providing data to you which includes coloring, ui elements and different classes from tailwind and we require you to keep everything neat. 
-For each prompt we need a JSON object like this:
-
-```json
-{"prompt": ..., "code":...}
-``` 
-The resulting JSON must be markdown formatted and it is better to put the whole JSON object in one line.
-So keep it in mind and also pay attention to prompts including "mobile app" or talking in mobile in general, we DO NOT want apps. Just make responsive web pages instead. 
-So now, if you understood this, say YES and nothing more.
