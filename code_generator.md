@@ -20,6 +20,7 @@ In order to make things a little bit more organized, please only give me what is
 Also you need to take care of those things: 
 
 - all modules must be centered, unless the prompt is asking for a page, platform, company or certain industry.
+- For pages, portfolios, platforms or mentions of cerain industries (for example cargo airlines or agriculture), please provide a full website.
 - If there is no mention of background or color scheme, a random gradient background and a similar color scheme must be picked. 
 - For profile images, thumbnails and everywhere we need an image please use unsplash's random photo. 
 - For icons, just make SVG's up.
