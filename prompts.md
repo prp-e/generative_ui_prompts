@@ -623,3 +623,28 @@
 23. A subscription form with a warm rust to terracotta gradient background
 24. A request form with a bright coral to salmon gradient background
 25. A booking form with a vivid chartreuse to lime green gradient background.
+1. A subscription popup with a subtle blue to white gradient background
+2. A notification popup with a vibrant purple to pink gradient background
+3. A confirmation popup with a calming green to turquoise gradient background
+4. An alert popup with a dynamic orange to yellow gradient background
+5. A promotional popup with a sophisticated gray to silver gradient background
+6. A survey popup with an elegant teal to aqua gradient background
+7. A warning popup with a warm yellow to orange gradient background
+8. A welcome popup with a modern blue to cyan gradient background
+9. An error popup with a serene lavender to lilac gradient background
+10. An announcement popup with a smooth peach to coral gradient background
+11. A discount popup with a bold red to maroon gradient background
+12. A feedback popup with a fresh mint to lime gradient background
+13. A special offer popup with a deep indigo to violet gradient background
+14. A reminder popup with a rich gold to bronze gradient background
+15. A reminder popup with a vibrant magenta to fuchsia gradient background
+16. A notification popup with a calming sky blue to baby blue gradient background
+17. An update popup with an earthy brown to tan gradient background
+18. A limited time offer popup with a dusk pink to blush gradient background
+19. A promo popup with a dusky olive to sage gradient background
+20. A special event popup with a sunny amber to mustard gradient background
+21. A warning popup with a cool slate to steel gradient background
+22. A notification popup with a deep navy to midnight blue gradient background
+23. A discount popup with a warm rust to terracotta gradient background
+24. A sale popup with a bright coral to salmon gradient background
+25. A reminder popup with a vivid chartreuse to lime green gradient background.
