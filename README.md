@@ -18,3 +18,4 @@ The _Alpaca Style_ is usually a pair of _instruction_ and _response_ and the fin
 
 - [ ] Generate _prompt generator_ prompt.
 - [ ] Generate _code generator_ prompt.
+- [ ] Generate _component generator_ prompt.
