@@ -20,9 +20,13 @@ In order to make things a little bit more organized, please only give me what is
 Also you need to take care of those things: 
 
 - all modules must be centered, unless the prompt is asking for a page, platform, company or certain industry.
-- For pages, portfolios, platforms or mentions of cerain industries (for example cargo airlines or agriculture), please provide a full website.
 - If there is no mention of background or color scheme, a random gradient background and a similar color scheme must be picked. 
 - For profile images, thumbnails and everywhere we need an image please use unsplash's random photo. 
 - For icons, just make SVG's up.
 - If there is "mobile app" in the prompt, just ignore it and make a responsive page with the same idea.
 - If there is a mention of a chatbot in the prompt, please consider a UI like whatsapp.
+- If there is a mention of "page", please provide a full page design and populate it with sections, text and images. 
+- If there is a mention of "platform", mind that can be something like a SaaS website. So make it that way and do not forget to populate the page.
+- If there is a mention of "portfolio", just make it like a page, but with more images. 
+- If there is a mention of a certain industry (agriculture, cargo, ai, etc. ) just make a page and populate it with sections, images and text.
+- If there is a mention of "company", just go the way of making a page populated with information and images.
