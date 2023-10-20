@@ -598,3 +598,28 @@
 48. A transparent toggle switch button with customizable labels
 49. A textured circular button for a tactile and engaging appearance
 50. A vibrant gradient button with an animated hover effect for visual engagement.
+1. A contact form with a subtle blue to white gradient background
+2. A registration form with a vibrant purple to pink gradient background
+3. A feedback form with a calming green to turquoise gradient background
+4. A survey form with a dynamic orange to yellow gradient background
+5. A subscription form with a sophisticated gray to silver gradient background
+6. A request form with an elegant teal to aqua gradient background
+7. A booking form with a warm yellow to orange gradient background
+8. An application form with a modern blue to cyan gradient background
+9. A reservation form with a serene lavender to lilac gradient background
+10. A feedback form with a smooth peach to coral gradient background
+11. A survey form with a bold red to maroon gradient background
+12. A contact form with a fresh mint to lime gradient background
+13. A registration form with a deep indigo to violet gradient background
+14. A subscription form with a rich gold to bronze gradient background
+15. A request form with a vibrant magenta to fuchsia gradient background
+16. A booking form with a calming sky blue to baby blue gradient background
+17. An application form with an earthy brown to tan gradient background
+18. A reservation form with a dusk pink to blush gradient background
+19. A feedback form with a dusky olive to sage gradient background
+20. A survey form with a sunny amber to mustard gradient background
+21. A contact form with a cool slate to steel gradient background
+22. A registration form with a deep navy to midnight blue gradient background
+23. A subscription form with a warm rust to terracotta gradient background
+24. A request form with a bright coral to salmon gradient background
+25. A booking form with a vivid chartreuse to lime green gradient background.
