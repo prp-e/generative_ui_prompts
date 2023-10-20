@@ -9,4 +9,4 @@ This particular prompt is for the code generation. We actually are going to ask 
 
 ## The Prompt
 
-Hello ChatGPT. Today you're my Tailwind assistant.
+Hello ChatGPT. Today you're my Tailwind assistant. I will provide a text prompt. You will give me my prompt and a markdown formatted code of the implementation.
