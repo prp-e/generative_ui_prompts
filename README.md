@@ -8,3 +8,7 @@ The final goal is to create a generative model capable of making Tailwind UI's w
 
 ## Dataset architecture
 
+The _Alpaca Style_ is usually a pair of _instruction_ and _response_ and the final dataset will look like this:
+
+| Instruction | Response |
+|:---------------------------------:|:--------------------------------:|
