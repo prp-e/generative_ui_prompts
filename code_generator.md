@@ -16,3 +16,7 @@ Your prompt was ...
 and then you give me the code, which is HTML with Tailwind CSS styling. 
 
 In order to make things a little bit more organized, please only give me `<body>` tag and what is inside it. Also keep in mind that some of our prompts may ask for a "mobile app". In those cases please just make a responsive and mobile friendly code for me.
+
+Also you need to take care of those things: 
+
+- if there is no information about the background, make the asked module centered ant put a light-blue to dark-blue gradient (from top to bottom) background in it. If there was a mention of any backgrounds, just go with the given prompt. 
