@@ -19,7 +19,7 @@ In order to make things a little bit more organized, please only give me what is
 
 Also you need to take care of those things: 
 
-- if there is no information about the background, make the asked module centered ant put a blue to grey gradient (from top to bottom) background in it. If there was a mention of any backgrounds, just go with the given prompt. 
+- if there is no information about the background, make the asked module centered and put a blue to grey gradient (from top to bottom) background in it. If there was a mention of any backgrounds, just go with the given prompt. 
 - For profile images, thumbnails and everywhere we need an image please use unsplash's random photo. 
 - For icons, just make SVG's up.
 - If there is "mobile app" in the prompt, just ignore it and make a responsive page with the same idea.
