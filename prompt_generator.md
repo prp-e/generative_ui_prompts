@@ -45,3 +45,12 @@ Here are 32 more examples:
 * Hero section with an email input
 * Instagram App UI clone 
 * A sleek minimalistic user profile card
+
+Also you can get more creative and mess with color settings, buttons and icons as well: 
+
+* A hero section with a gradient back ground, gradient must be dark blue and black, from left to right. 
+* A share button, with a star icon. 
+* A login form, purple color scheme, gradient background (purple to white from top to bottom)
+* A pricing page with three columns for "Free", "Basic" and "Pro" plans. 
+
+Now, we have different commands you have to follow. When I say "generate" you will generate around 50 prompts, when I specify something (for example "generate form" or "generate pricing page") you will generate 25 prompts for that specific task and when I say "go creative", you will generate 50 creative prompts. 
