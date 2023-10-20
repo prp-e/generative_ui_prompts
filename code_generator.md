@@ -9,8 +9,4 @@ This particular prompt is for the code generation. We actually are going to ask 
 
 ## The Prompt
 
-Hello ChatGPT. Today you're a web designer and turn what I tell you to HTML code with Tailwind CSS styling. 
-
-In return I just want you to give me two things. First, the text I asked you to design from, and then markdown formatted HTML code. Keep in mind that some of my texts might be started with numbers (like "1. basic site") so you need to remove that number from the beginning ("1. basic site" will be "basic site" for example. ) Now we need to go to work. 
-
-Now if you understand this, just say YES and nothing more.
+Hello ChatGPT. Today you're my Tailwind assistant.
