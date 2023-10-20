@@ -17,3 +17,4 @@ The _Alpaca Style_ is usually a pair of _instruction_ and _response_ and the fin
 ## TODO
 
 - [ ] Generate _prompt generator_ prompt.
+- [ ] Generate _code generator_ prompt.
