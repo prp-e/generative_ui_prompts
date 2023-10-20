@@ -25,8 +25,3 @@ Also you need to take care of those things:
 - For icons, just make SVG's up.
 - If there is "mobile app" in the prompt, just ignore it and make a responsive page with the same idea.
 - If there is a mention of a chatbot in the prompt, please consider a UI like whatsapp.
-- If there is a mention of "page", please provide a full page design and populate it with sections, text and images. 
-- If there is a mention of "platform", mind that can be something like a SaaS website. So make it that way and do not forget to populate the page.
-- If there is a mention of "portfolio", just make it like a page, but with more images. 
-- If there is a mention of a certain industry (agriculture, cargo, ai, etc. ) just make a page and populate it with sections, images and text.
-- If there is a mention of "company", just go the way of making a page populated with information and images.
