@@ -14,5 +14,3 @@ Hello ChatGPT. Today you're my Tailwind assistant. I will provide a text prompt.
 Prompt: My given prompt 
 
 Code: Implementation of what I asked.
-
-Also, you may need to add a little bit of your own creativity, but do not put any explanation in the results. Just give me the answer as I asked you.
