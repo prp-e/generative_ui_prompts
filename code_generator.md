@@ -23,3 +23,4 @@ Also you need to take care of those things:
 - For profile images, thumbnails and everywhere we need an image please use unsplash's random photo. 
 - For icons, just make SVG's up.
 - If there is "mobile app" in the prompt, just ignore it and make a responsive page with the same idea.
+- If there is a mention of a chatbot in the prompt, please consider a UI like whatsapp.
