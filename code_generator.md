@@ -15,6 +15,6 @@ For each prompt we need a JSON object like this:
 ```json
 {"prompt": ..., "code":...}
 ``` 
-
+The resulting JSON must be markdown formatted and it is better to put the whole JSON object in one line.
 So keep it in mind and also pay attention to prompts including "mobile app" or talking in mobile in general, we DO NOT want apps. Just make responsive web pages instead. 
 So now, if you understood this, say YES and nothing more.
