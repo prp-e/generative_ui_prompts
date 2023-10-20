@@ -26,3 +26,5 @@ Also you need to take care of those things:
 - If there is "mobile app" in the prompt, just ignore it and make a responsive page with the same idea.
 - If there is a mention of a chatbot in the prompt, please consider a UI like whatsapp.
 - If the prompt is asking for a single module (a post, a button, a player, etc. ) It must be centered.
+
+Now if you understand just say YES and nothing more.
