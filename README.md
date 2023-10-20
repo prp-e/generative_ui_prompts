@@ -1,2 +1,1 @@
-# generative_ui_prompts
-ChatGPT prompts to create a dataset
+# ChatGPT prompts to create a dataset for Tailwind UI assistant
