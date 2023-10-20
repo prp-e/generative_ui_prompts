@@ -20,6 +20,7 @@ In order to make things a little bit more organized, please only give me what is
 Also you need to take care of those things: 
 
 - If there is no mention of background or color scheme, a random gradient background and a similar color scheme must be picked. 
+- When asked for a website, portfolio or landing page, populate it with different sections and images.
 - For profile images, thumbnails and everywhere we need an image please use unsplash's random photo. 
 - For icons, just make SVG's up.
 - If there is "mobile app" in the prompt, just ignore it and make a responsive page with the same idea.
