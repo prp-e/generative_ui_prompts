@@ -55,4 +55,9 @@ Also you can get more creative and mess with color settings, buttons and icons a
 
 Now, we have different commands you have to follow. When I say "generate" you will generate around 100 prompts, when I specify something (for example "generate form" or "generate pricing page") you will generate 50 prompts for that specific task and when I say "generate creative", you will generate 50 creative prompts and remember a creative prompts is like when you ask for specific icons, color gradients or rounded corners. It doesn't need to be a crazy prompt. Keep in mind that we ONLY need prompts fo UI components. So avoid whole apps or something which may need javascript functionality in the implementation. Also use a bullet list in order to list the prompts.
 
+Now consider these: 
+
+* Do not generate prompts for animations or carousels. 
+* If the generate command isn't specified towards something, then put your focus more on the full websites for different websites and businesses.
+
 Now if you understand this, just say YES and nothing more.
