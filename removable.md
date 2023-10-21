@@ -1,6 +1,3 @@
-- A pricing page with feature comparison tables for different plans.
-- A subscription page with pricing tiers and corresponding features.
-- A membership page with benefits outlined for each subscription level.
 - A pricing page with a slider for selecting the desired service level.
 - A plans and pricing page with a clear breakdown of included services.
 - A subscription page with a clear distinction between free and premium options.
