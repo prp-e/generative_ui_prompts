@@ -19,4 +19,6 @@ Design tips you should keep in mind:
 - When images are needed, use unsplash random function. 
 - When there is a need of a video, put the youtube link to "Never Gonna Give You Up"
 
+Now consider putting JSON objects inside of a code block.
+
 If you understand this, please say YES and nothing more.
