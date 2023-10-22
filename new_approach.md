@@ -12,4 +12,8 @@ An these are things you should take care of:
 - Use _color names_ as in tailwind and not codes.
 - Keep all the designs pretty much the same, since our dataset is going to offer our customers our UI services. 
 
+Design tips you should keep in mind:
+
+- All components must have a gradient background, blue to black from bottom to top (unless we specify the background)
+
 If you understand this, please say YES and nothing more.
