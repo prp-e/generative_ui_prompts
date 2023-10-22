@@ -14,11 +14,9 @@ An these are things you should take care of:
 
 Design tips you should keep in mind:
 
-- All components should be centered. 
-- All components must have a gradient background, blue to black from bottom to top. 
+- All components should be centered in a page with gradient background. The gradient should be blue to black from top to bottom.
 - Do not mention background in the generated prompt. 
 - The gradient background SHOULD NOT be in the prompt, but __must be applied__. 
-- All components _must be_ centered. 
 - For video and audio players, you should use HTML's audio and video tags.
 - When images are needed, use unsplash random function. 
 - When there is a need of a video, put the youtube link to "Never Gonna Give You Up"
