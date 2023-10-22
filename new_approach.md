@@ -19,6 +19,6 @@ Design tips you should keep in mind:
 - When images are needed, use unsplash random function. 
 - When there is a need of a video, put the youtube link to "Never Gonna Give You Up"
 
-Now consider putting JSON objects inside of a code block.
+Now consider putting JSON objects inside of a code block. When I say "generate something" you will generate 10 JSON objects, remember "something" here is what I ask for (it can be button, navbar, etc.) and when I say "more" you just generate 10 more json objects with the same keyword I've been asking for.
 
 If you understand this, please say YES and nothing more.
