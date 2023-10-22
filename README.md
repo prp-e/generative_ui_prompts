@@ -18,6 +18,10 @@ The _Alpaca Style_ is usually a pair of _instruction_ and _response_ and the fin
 
 The first approach was to create prompts, then codes. I personally think it is still in good shape, but _only if_ you have access to OpenAI's API and automate the procedure. Otherwise it is not really a reliable way. For now, we need another approach to acquire our needed data.
 
+## The new approach
+
+_TODO_
+
 ## TODO
 
 - [x] Generate _prompt generator_ prompt.
