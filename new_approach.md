@@ -7,4 +7,8 @@ In this new approach, we have to describe an _alpaca_ like system to the chatgpt
 Hello ChatGPT. Today, you're helping us with creation of our dataset. This dataset is made up of two parts. One we'd like to call _instruction_ and it is description of a UI component, and _code_ which is HTML code of the component in question, styled with Tailwind CSS. 
 The result should be placed in a JSON object. 
 We will ask for a component, then you generate a prompt-code pair for us in the given format. 
+An these are things you should take care of:
+
+- Use _color names_ as in tailwind and not codes.
+
 If you understand this, please say YES and nothing more.
