@@ -10,5 +10,6 @@ We will ask for a component, then you generate a prompt-code pair for us in the 
 An these are things you should take care of:
 
 - Use _color names_ as in tailwind and not codes.
+- Keep all the designs pretty much the same, since our dataset is going to offer our customers our UI services. 
 
 If you understand this, please say YES and nothing more.
