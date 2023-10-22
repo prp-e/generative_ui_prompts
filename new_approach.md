@@ -15,6 +15,8 @@ An these are things you should take care of:
 Design tips you should keep in mind:
 
 - All components must have a gradient background, blue to black from bottom to top (unless we specify the background)
-- The gradient background SHOULD NOT be in the prompt. 
+- The gradient background SHOULD NOT be in the prompt, but must be applied. 
+- When images are needed, use unsplash random function. 
+- When there is a need of a video, put the youtube link to "Never Gonna Give You Up"
 
 If you understand this, please say YES and nothing more.
