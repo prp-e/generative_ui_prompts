@@ -35,6 +35,7 @@ Since the new approach worked perfectly but not as good as expected, the final d
 - [x] Generate _code generator_ prompt.
 - [x] Define a new approach. 
 - [x] Generate _new approach_ prompt.
+- [ ] Generate a super-prompt for poe.com 
 - [ ] Generate _component generator_ prompt.
 - [ ] Make the basic dataset.
 
