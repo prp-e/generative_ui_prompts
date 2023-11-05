@@ -33,8 +33,8 @@ Since the new approach worked perfectly but not as good as expected, the final d
     - Prompts were great but not basically what we wanted. We need to rethinkg the procedure.
 - [x] Enhance _prompt generator_ to create UI components only.
 - [x] Generate _code generator_ prompt.
-- [ ] Define a new approach. 
-- [ ] Generate _new approach_ prompt.
+- [x] Define a new approach. 
+- [x] Generate _new approach_ prompt.
 - [ ] Generate _component generator_ prompt.
 - [ ] Make the basic dataset.
 
